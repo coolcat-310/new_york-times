@@ -1,0 +1,15 @@
+
+.section .section-header {
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+
+.section {
+	border: 1px solid black;
+	margin-bottom: 40px;
+}
+
+.section-body {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
