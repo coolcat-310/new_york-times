@@ -2,7 +2,7 @@
   "name": "nyt-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://navarrete.me.github.io/new_york-times",
+  "homepage": "https://navarrete.me/new_york-times/",
   "deploy": "npm run build&&gh-pages -d build",
   "dependencies": {
     "axios": "^0.16.2",
